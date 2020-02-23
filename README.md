@@ -12,3 +12,4 @@ Then, download the foobar200 SDK.
 
 ## Building from source
 - VisualStudio 2019.
+- Remember to install the deprecated msvc stuff.
